@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jsdom": "^25.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "stylelint-config-recommended": "^14.0.1"
+  }
+}

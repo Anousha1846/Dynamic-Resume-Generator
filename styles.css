@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.19);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+h3{
+    font-family: monospace;
+    text-decoration: underline;
+    font-size:23px;
+    font-weight: bolder;
+}
+.section {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin: 5px auto;
+    font-family: san-serif;
+    font-weight:bold
+}
+
+input {
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 10px;
+    margin-right:;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 15px
+}
+
+button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background: black;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background: gray;
+}
+
+ #submitbtn{
+    font-weight:bold;
+    font-size:18px;
+     display: block;
+    width: 100%;
+    border: none;
+    padding: 14px 28px;
+    text-align: center;
+
+ } 
+#resumeOutput {
+    margin-top: 20px;
+}
+
+.resume-section {
+    margin-bottom: 20px;
+}
+
+.resume-section h3 {
+    margin: 0;
+}
+
+.resume-section p {
+    margin: 5px 0;
+}
+
